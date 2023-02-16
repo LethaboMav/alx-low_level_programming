@@ -1,0 +1,1 @@
+# This directory contains basic bash scripts and C source codes 
